@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurriculumApp</string>
+    <string name="str_text_experiencia">Experiência</string>
+    <string name="str_text_formacao">Formação</string>
+    <string name="str_text_objetivo">Objetivo</string>
+    <string name="str_text_idade">Idade</string>
+    <string name="str_text_nomecompleto">Nome Completo</string>
+    <string name="str_title_addcurriculo">Cadastre o currículo</string>
+    <string name="str_btn_addCadastrar">Cadastrar</string>
+</resources>
