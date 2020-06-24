@@ -13,4 +13,6 @@
     <string name="revFormText">Formação:</string>
     <string name="revExpText">Experiência:</string>
     <string name="revBtnConfim">Confirmar</string>
+    <string name="noExistCurriculum">Nenhum Currículo Cadastrado, Clique no botão de + para adicionar um curriculo</string>
+    <string name="mainEdit">Para editar o curriculo clique no botão de +</string>
 </resources>
