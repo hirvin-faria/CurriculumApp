@@ -19,22 +19,13 @@
 
             <TextView
                 android:id="@+id/titleAct"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginLeft="16dp"
-                android:layout_marginTop="16dp"
                 android:text="@string/str_title_addcurriculo"
-                android:textSize="18sp" />
+                style="@style/PageTitle" />
 
             <TextView
                 android:id="@+id/textName"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginLeft="16dp"
-                android:layout_marginTop="32dp"
-                android:text="@string/str_text_nomecompleto" />
+                android:text="@string/str_text_nomecompleto"
+                style="@style/SessionTextTitle" />
 
             <EditText
                 android:id="@+id/editTextName"
@@ -134,15 +125,11 @@
 
             <Button
                 android:id="@+id/buttonAdd"
+                style="@style/btnStyle"
                 android:layout_width="wrap_content"
-                android:layout_height="34dp"
-                android:layout_marginLeft="16dp"
-                android:layout_marginTop="32dp"
-                android:layout_marginRight="16dp"
-                android:layout_marginBottom="32dp"
-                android:background="@color/colorAccent"
-                android:text="@string/str_btn_addCadastrar"
-                android:textColor="@color/design_default_color_background" />
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/str_btn_addCadastrar" />
 
         </LinearLayout>
     </ScrollView>

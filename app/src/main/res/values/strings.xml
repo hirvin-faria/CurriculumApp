@@ -7,4 +7,10 @@
     <string name="str_text_nomecompleto">Nome Completo</string>
     <string name="str_title_addcurriculo">Cadastre o currículo</string>
     <string name="str_btn_addCadastrar">Cadastrar</string>
+    <string name="revIdadeText">Idade:</string>
+    <string name="revNameText">Nome:</string>
+    <string name="revObjText">Objetivo:</string>
+    <string name="revFormText">Formação:</string>
+    <string name="revExpText">Experiência:</string>
+    <string name="revBtnConfim">Confirmar</string>
 </resources>
